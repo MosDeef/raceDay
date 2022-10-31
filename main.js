@@ -18,5 +18,5 @@ if (earlyReg == true && runnerAge > 18) {
 } else if (runnerAge < 18) {
     console.log(`You'll race at 12:30pm ${raceNumber}`)
 } else if (runnerAge === 18) {
-    console.log("Please see a race mashall")
+    console.log("Please see a race marshall for further instructions")
 }
